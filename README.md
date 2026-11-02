@@ -57,6 +57,6 @@ This project explores and models wine quality prediction using red and white win
 
 ## 👨‍💻 Author
 
-**Vikram Anand**  
-M.Tech (2025), Department of Management Sciences (DoMS)  
-IIT Kanpur
+**Poorvi Jain**  
+B.Tech, The Department of Chemical Engineering 
+IIT Delhi
