@@ -58,5 +58,5 @@ This project explores and models wine quality prediction using red and white win
 ## 👨‍💻 Author
 
 **Poorvi Jain**  
-B.Tech, The Department of Chemical Engineering 
+B.Tech, The Department of Chemical Engineering
 IIT Delhi
